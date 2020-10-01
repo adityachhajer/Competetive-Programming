@@ -1,5 +1,5 @@
-# Competetive-Programming
-This repository contains problems and my solutions to these problems.
+# Competetive Programming
+This repository contains accepted Hackerrank solutions to some of the common interview problems. 
 
 
 
